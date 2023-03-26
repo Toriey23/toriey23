@@ -1,4 +1,4 @@
-<h1>Hi, I'm Victoria! <br/><a href="https://github.com/toriey23">Web Developer</a>, <a href="https://www.linkedin.com/in/toriey23/">IT Professional</a>, <a href="https://www.youtube.com/c/toriey23">Content Creator</a></h1>
+<h1>Hi, I'm Victoria! <br/><a href="https://github.com/toriey23 ">Web Developer</a>, <a href="https://www.linkedin.com/in/victoria-allen-315ba026b/">IT Professional</a>, <a href="https://www.youtube.com/@VyckieyOAT">Content Creator</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
